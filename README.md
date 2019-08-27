@@ -1,2 +1,1 @@
-﻿# Mini-Calculator
-
+﻿# Mini-Calculator is a calculator built with Javascript, structured by HTML and styled with CSS. It has Sine, Cosine and Tangent features to perform basic trigonometry functions. Also, it performs square root, square, addition, substraction, multiplication and division of numbers. The letter 'C' on the calculator clears inputs while 'Del' deletes the input being displayed one place to the left.
